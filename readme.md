@@ -31,9 +31,10 @@ A systems-focused developer bridging the gap between structured software develop
 
 ## 📂 Highlighted Projects
 
-*   **Webserv** - An HTTP/1.1 web server written entirely in C++ from scratch, using non-blocking I/O multiplexing (`select`/`poll`).
-*   **Minishell** - A POSIX-compliant shell interpreter handling process synchronization, file descriptor redirections, and pipelines.
-
+*   **Webserv** - An HTTP/1.1 web server built from scratch in C++, utilizing non-blocking I/O multiplexing (`select`/`poll`/`epoll`) to handle simultaneous client connections efficiently.
+*   **Cub3D** - A 3D graphics engine written in C using the DDA (Digital Differential Analysis) raycasting algorithm, simulating a first-person perspective rendering engine similar to Wolfenstein 3D.
+*   **Minishell** - A POSIX-compliant shell interpreter handling environment variable expansions, file descriptor redirections (`<`, `>`, `>>`, `<<`), pipelines (`|`), and process synchronization.
+*   **Philosophers** - A multithreading and multiprocessing systems project addressing the classical Dining Philosophers problem, implementing mutexes, semaphores, and data race mitigation techniques.
 ---
 
 ## 📊 GitHub Stats
