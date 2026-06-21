@@ -41,7 +41,7 @@ I am a Software Engineer and systems-focused developer bridging the gap between 
 
 ## 📊 GitHub Stats
 
-[!["Anass's GitHub stats"](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[!["Anass's GitHub stats"](https://github-readme-stats.vercel.app/api?username=aelbouss&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🧮 Most Used Languages
-[!["Top Langs"](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[!["Top Langs"](https://github-readme-stats.vercel.app/api/top-langs/?username=aelbouss&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
