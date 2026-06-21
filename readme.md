@@ -20,13 +20,6 @@ A systems-focused developer bridging the gap between structured software develop
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=orange)
 ![ArgoCD](https://img.shields.io/badge/argo%20cd-%23FF7E00.svg?style=for-the-badge&logo=argo&logoColor=white)
 
-### 🌐 Software Development Foundations (Private School Stack)
-*(Tip: Replace these with the actual languages/databases you used during your 2 years!)*
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
-
 ---
 
 ## 📂 Highlighted Projects
